@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarkShram
-- 👀 I’m interested in programming and video games
+- 👀 I’m interested in programming and video games and working on a protofilio for school
 - 🌱 I’m currently learning c# .NET HTML and LUA
 - 💞️ I’m looking to collaborate on projects with people
 - 📫 How to reach me markshram10@gmail.com
