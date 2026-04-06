@@ -1,6 +1,4 @@
 - 👋 Hi, I'm Mark
-- 🎓 High school sophomore interested in computer science  
-- 📂 Currently building a programming portfolio  
 - 📖 I enjoy reading and learning new technologies
 - 📫 Contact: markshram10@gmail.com  
 - ⚡ Fun fact: I enjoy reading
